@@ -4,7 +4,7 @@
   <PropertyGroup>
     <UsingToolXliff>true</UsingToolXliff>
     <UsingToolNetFrameworkReferenceAssemblies>true</UsingToolNetFrameworkReferenceAssemblies>
-    <VersionPrefix>6.0.100</VersionPrefix>
+    <VersionPrefix>X.Y.Z</VersionPrefix>
     <PreReleaseVersionLabel>preview</PreReleaseVersionLabel>
     <PreReleaseVersionIteration>3</PreReleaseVersionIteration>
     <PackSpecific Condition="'$(OS)' != 'Windows_NT'">true</PackSpecific>
